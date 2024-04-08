@@ -1,7 +1,7 @@
 package com.example.retailstore;
 
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplicationnnnnnnnnnnn;
 
 @SpringBootApplication
 public class RetailStoreApplication {
